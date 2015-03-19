@@ -10,9 +10,11 @@ Options:
 - afterAdd
 - afterRemove
 - afterRemoveAll
+
 Events:
 - keydown
 - click
+
 Methods:
 - init
 - addTag
@@ -20,5 +22,5 @@ Methods:
 - getHighlightTags
 - removeTag
 - removeAll
- *    destroy
+- destroy
 
